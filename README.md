@@ -6,5 +6,7 @@ The dashboard file has been uploaded above.
 
 The detailed description of each component of Dashboard is mentioned in the word file above.
 
+A Screenshot of dashboard is Displayed below:
+
 ![Dashboardpic](https://github.com/VishCraft/GameSalesTableauProject/assets/144891820/a7e661d9-a897-4e42-86ec-f7c3d5856a79)
 
