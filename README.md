@@ -1,6 +1,6 @@
 # GameSalesTableauProject
 Video Game Sales and Ratings Analysis Dashboard
-Overview
+Overview:
 This project focuses on analyzing and predicting video game sales and ratings using the "Video Game Sales with Ratings" dataset, encompassing information on video games released between 1980 and 2016. The dataset includes details such as game names, platforms, release years, genres, publishers, and sales data for different regions. Critic and user ratings from Metacritic, along with ESRB ratings, are also included.
 
 The goal is to provide insights into trends, preferences, and connections within the gaming industry. The resulting dashboard can benefit game developers, publishers, market analysts, gamers, educational institutions, and advertising agencies by offering valuable information for decision-making.
