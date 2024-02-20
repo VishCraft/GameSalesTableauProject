@@ -9,23 +9,23 @@ Dataset Details
 The dataset comprises 16 columns, each providing information about various facets of the gaming industry. These include sales data for North America, Europe, Japan, and other regions, along with critic and user ratings, developer details, and ESRB scores.
 
 Columns:
-Name
-Platform
-Year_of_Release
-Genre
-Publisher
-NA_Sales
-EU_Sales
-JP_Sales
-Other_Sales
-Global_Sales
-Critic_Score
-Critic_Count
-User_Score
-User_Count
-Developer
-Rating
-Pre-processing
+Name,
+Platform,
+Year_of_Release,
+Genre,
+Publisher,
+NA_Sales,
+EU_Sales,
+JP_Sales,
+Other_Sales,
+Global_Sales,
+Critic_Score,
+Critic_Count,
+User_Score,
+User_Count,
+Developer,
+Rating,
+Pre-processing,
 To enhance data quality, null values have been removed. This ensures that the data is suitable for visualization and analysis in tools like Tableau.
 
 Dashboard Users
