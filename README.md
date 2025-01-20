@@ -38,8 +38,7 @@ Gamers: Explore popular games, trends, and ratings to make informed choices.
 Educational Institutions: Study the gaming industry dynamics and design curricula for relevant courses.
 Advertising Agencies: Identify popular games and platforms for targeted advertising campaigns.
 
-You can access the public dashboard from the URL Provided -"https://public.tableau.com/shared/FW5CS7YSR?:display_count=n&:origin=viz_share_link"
-
+You can access the public dashboard from the URL Provided -  https://public.tableau.com/app/profile/vishal.kompella 
 The dashboard file has been uploaded above.
 
 The detailed description of each component of Dashboard is mentioned in the word file above.
